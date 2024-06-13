@@ -14,7 +14,7 @@
    - The QA pairs constituted the final dataset used for evaluation and chatbot interaction.
 
 ### How dataset is formed
-![image](https://github.com/evapatel1654/Eva_Patel_RAG_Chatbot/assets/133888581/6bb76a36-67ab-4bdf-9d9b-4049afeae151)
+![image](https://github.com/evapatel1654/Eva_Patel_RAG_Chatbot/assets/133888581/f105f5fc-2b95-4816-95e0-fc23114ceb52)
 
 
 
